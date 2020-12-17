@@ -11,6 +11,8 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.microsoft.appcenter.analytics.Analytics;
+
 import java.util.List;
 
 import butterknife.BindView;
@@ -31,6 +33,7 @@ public class DiscountListFragment extends Fragment implements RepositoryListener
         View view = inflater.inflate(R.layout.fragment_discount_list, container, false);
         ButterKnife.bind(this, view);
 
+        Analytics.trackEvent("DiscountList fragment event!");
         return view;
     }
 
