@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263279267811",
+    "project_id": "dl20-vljukap98",
+    "storage_bucket": "dl20-vljukap98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263279267811:android:ee5e81077692b963585ad6",
+        "android_client_info": {
+          "package_name": "hr.foi.air.discountlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263279267811-cvgagsm0o7f73t23g98elbkl2ed0ecr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.foi.air.discountlocator",
+            "certificate_hash": "978ef7ba815791af58d1d027310edea066c72f50"
+          }
+        },
+        {
+          "client_id": "263279267811-sfrc1cfgq2v48emn1qq7pl6snnaanl1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2rOj3R-mknfteOADOMvZAXWLEbRJHPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263279267811-sfrc1cfgq2v48emn1qq7pl6snnaanl1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
